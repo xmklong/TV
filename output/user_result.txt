@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-28 19:13:41,url
+2025-01-29 07:14:35,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -817,7 +817,7 @@ CETV4,http://122.9.151.210:5871/rtp/238.255.2.222:5999$贵州电信组播源
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=4fd7a5cd1725342602$订阅源
 三沙卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8$订阅源
 三沙卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8?p=GITV&area=GD_CUCC&$订阅源
-三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源
+三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源|1920x1080
 三沙卫视,http://122.9.151.210:1910/rtp/238.255.2.203:5999$贵州电信组播源
 三沙卫视,http://122.9.151.210:5476/rtp/238.255.2.203:5999$贵州电信组播源
 三沙卫视,http://122.9.151.210:5871/rtp/238.255.2.203:5999$贵州电信组播源
@@ -1137,6 +1137,7 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
+CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
@@ -1295,7 +1296,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 金鹰卡通,http://123.56.129.203:5431/rtp/225.1.8.163:9252$组播源
 金鹰卡通,http://139.196.151.191:9836/rtp/239.45.3.118:5140$上海电信组播源
 金鹰卡通,http://139.129.231.228:3529/rtp/239.21.1.48:5002$组播源
-睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:74d9:21::6]/270000001128/9900000096/index.m3u8$订阅源|IPv6
@@ -1352,6 +1352,9 @@ CCTV-15,http://122.9.151.210:8088/rtp/238.255.2.18:5999$组播源
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
+封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
+射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1377,7 +1380,6 @@ Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
-CHC动作电影,url
 CHC高清电影,url
 淘剧场,url
 淘娱乐,url
@@ -1408,6 +1410,7 @@ CHC高清电影,url
 爱动漫,url
 中录动漫,url
 宝宝动画,url
+睛彩少儿,url
 24H国漫热播,url
 斗破苍穹玄幻剧,url
 经典动漫,url
@@ -1421,14 +1424,11 @@ CHC高清电影,url
 潮流音乐,url
 天津音乐,url
 音乐广播,url
-鹿鼎记,url
 仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
-封神榜,url
 闯关东,url
 上海滩,url
-射雕英雄传,url
