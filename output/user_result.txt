@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-30 07:16:22,url
+2025-01-30 19:13:21,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -817,7 +817,6 @@ CETV4,http://122.9.151.210:5871/rtp/238.255.2.222:5999$贵州电信组播源
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=4fd7a5cd1725342602$订阅源
 三沙卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8$订阅源
 三沙卫视,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8?p=GITV&area=GD_CUCC&$订阅源
-三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000$订阅源|1920x1080
 三沙卫视,http://122.9.151.210:1910/rtp/238.255.2.203:5999$贵州电信组播源
 三沙卫视,http://122.9.151.210:5476/rtp/238.255.2.203:5999$贵州电信组播源
 三沙卫视,http://122.9.151.210:5871/rtp/238.255.2.203:5999$贵州电信组播源
@@ -1136,7 +1135,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
-CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
@@ -1225,7 +1223,6 @@ CCTV-5+,http://122.9.151.210:2669/rtp/238.255.2.185:5999$组播源
 山东体育,http://58.57.40.22:9901/tsfile/live/1020_1.m3u8$订阅源
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8$订阅源
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
-天津体育,http://ha.xushining.com:50000/udp/225.1.1.122:5002$订阅源
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
@@ -1274,7 +1271,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 优漫卡通,http://122.9.151.210:1910/rtp/238.255.2.57:5999$贵州电信组播源
 优漫卡通,http://122.9.151.210:5476/rtp/238.255.2.57:5999$贵州电信组播源
 优漫卡通,http://122.9.151.210:5871/rtp/238.255.2.57:5999$贵州电信组播源
-优漫卡通,http://122.9.151.210:4418/rtp/238.255.2.57:5999$组播源
 优漫卡通,http://122.9.151.210:8088/rtp/238.255.2.57:5999$组播源
 优漫卡通,http://122.9.151.210:5987/rtp/238.255.2.57:5999$组播源
 优漫卡通,http://139.129.231.228:3529/rtp/239.21.1.50:5002$组播源
@@ -1374,6 +1370,7 @@ Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
+CHC动作电影,url
 CHC高清电影,url
 淘剧场,url
 淘娱乐,url
@@ -1392,6 +1389,7 @@ CHC高清电影,url
 深圳体育,url
 福建体育,url
 成都体育,url
+天津体育,url
 江苏体育,url
 吉林篮球,url
 睛彩羽毛球,url
